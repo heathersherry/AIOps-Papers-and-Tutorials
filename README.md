@@ -12,7 +12,8 @@ AIOps (Papers, Tutorials, and Datasets)
 > * identify the effective combination for an emerging issue with high quality and performance.
 3. Opprentice: Towards Practical and Automatic Anomaly Detection Through Machine Learning (IMC 2015) [[Paper](http://conferences2.sigcomm.org/imc/2015/papers/p211.pdf)]
 4. HotSpot: Anomaly Localization for Additive KPIs With Multi-Dimensional Attributes (IEEE Access 2018) [[Paper](https://ieeexplore.ieee.org/document/8288614)]
-5. AutoMAP: Diagnose Your Microservice-based Web Applications Automatically (WWW 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380111)]
+5. AutoMAP: Diagnose Your Microservice-based Web Applications Automatically (WWW 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380111)] [[GitHub](https://github.com/rshriram/pymicro)] [[Notes](https://mp.weixin.qq.com/s?__biz=Mzg3NDUwNTM3MA==&mid=2247485389&idx=1&sn=1914974878864d2d77131a1ec998fd17&chksm=cecef238f9b97b2e7e66c7d133cf743479289eb5fba7cfa85c094a3ce494fa1cb49efa997add&cur_album_id=1573418835687309313&scene=189#rd)]
+> * (1) Sampling, (2) Build anomaly behavior graph, (3) graph correction, (4) heuristic root cause detection algorithm on the graph, (5) performance analysis, (6) update the weights.
 6. Graph-based root cause analysis for service-oriented and micro service architectures (The Journal of Systems and Software 2020) [[Paper](https://www.sciencedirect.com/science/article/pii/S0164121219302067)]
 
 
