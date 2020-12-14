@@ -13,7 +13,7 @@ AIOps (Papers, Tutorials, and Datasets)
 3. Opprentice: Towards Practical and Automatic Anomaly Detection Through Machine Learning (IMC 2015) [[Paper](http://conferences2.sigcomm.org/imc/2015/papers/p211.pdf)]
 4. HotSpot: Anomaly Localization for Additive KPIs With Multi-Dimensional Attributes (IEEE Access 2018) [[Paper](https://ieeexplore.ieee.org/document/8288614)]
 5. AutoMAP: Diagnose Your Microservice-based Web Applications Automatically (WWW 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380111)]
-6. •	Graph-based root cause analysis for service-oriented and micro service architectures (The Journal of Systems and Software 2020) [[Paper](https://www.sciencedirect.com/science/article/pii/S0164121219302067)]
+6. Graph-based root cause analysis for service-oriented and micro service architectures (The Journal of Systems and Software 2020) [[Paper](https://www.sciencedirect.com/science/article/pii/S0164121219302067)]
 
 
 
