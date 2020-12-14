@@ -1,4 +1,4 @@
-# AIOps-Papers-Tutorials-and-Datasets-
+# AIOps - Papers and Tutorials
 AIOps (Papers, Tutorials, and Datasets)
 
 ## Tutorials and Suveys
