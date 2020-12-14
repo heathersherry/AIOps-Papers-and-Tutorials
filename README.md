@@ -15,6 +15,7 @@ AIOps (Papers, Tutorials, and Datasets)
 5. AutoMAP: Diagnose Your Microservice-based Web Applications Automatically (WWW 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380111)] [[GitHub](https://github.com/rshriram/pymicro)] [[Notes](https://mp.weixin.qq.com/s?__biz=Mzg3NDUwNTM3MA==&mid=2247485389&idx=1&sn=1914974878864d2d77131a1ec998fd17&chksm=cecef238f9b97b2e7e66c7d133cf743479289eb5fba7cfa85c094a3ce494fa1cb49efa997add&cur_album_id=1573418835687309313&scene=189#rd)]
 > * (1) Sampling, (2) Build anomaly behavior graph, (3) graph correction, (4) heuristic root cause detection algorithm on the graph, (5) performance analysis, (6) update the weights.
 6. Graph-based root cause analysis for service-oriented and micro service architectures (The Journal of Systems and Software 2020) [[Paper](https://www.sciencedirect.com/science/article/pii/S0164121219302067)]
+7. Performance Monitoring and Root Cause Analysis for Cloud-hosted Web Applications (WWW 2017) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3038912.3052649)]
 
 
 
