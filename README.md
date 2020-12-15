@@ -7,7 +7,7 @@ AIOps (Papers, Tutorials, and Datasets)
 3. AIOps based on machine learning (Chinese) [[Slides](https://netman.aiops.org/wp-content/uploads/2016/12/%E5%9F%BA%E4%BA%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%99%BA%E8%83%BD%E8%BF%90%E7%BB%B4v1.6.pdf)]
 
 ## Papers
-1. GRANO: Interactive Graph-based Root Cause Analysis for Cloud-Native Distributed Data Platform (VLDB 2019) [[Paper]()]
+1. GRANO: Interactive Graph-based Root Cause Analysis for Cloud-Native Distributed Data Platform (VLDB 2019) [[Paper](https://dl.acm.org/doi/pdf/10.14778/3352063.3352105)]
 2. iDice: Problem Identification for Emerging Issues (ICSE 2016) [[Paper](https://dl.acm.org/doi/pdf/10.1145/2884781.2884795)]
 > * identify the effective combination for an emerging issue with high quality and performance.
 3. Opprentice: Towards Practical and Automatic Anomaly Detection Through Machine Learning (IMC 2015) [[Paper](http://conferences2.sigcomm.org/imc/2015/papers/p211.pdf)]
