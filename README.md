@@ -5,6 +5,7 @@ AIOps (Papers, Tutorials, and Datasets)
 1. Awesome AIOps [[GitHub](https://github.com/linjinjin123/awesome-AIOps)]
 2. Anomaly Detection : A Survey [[Paper](http://cucis.ece.northwestern.edu/projects/DMS/publications/AnomalyDetection.pdf)]
 3. AIOps based on machine learning (Chinese) [[Slides](https://netman.aiops.org/wp-content/uploads/2016/12/%E5%9F%BA%E4%BA%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%99%BA%E8%83%BD%E8%BF%90%E7%BB%B4v1.6.pdf)]
+4. A collection of tools and datasets for anomaly detection on time-series data [[GitHub](https://github.com/rob-med/awesome-TS-anomaly-detection)]
 
 ## Papers
 1. GRANO: Interactive Graph-based Root Cause Analysis for Cloud-Native Distributed Data Platform (VLDB 2019) [[Paper](https://dl.acm.org/doi/pdf/10.14778/3352063.3352105)]
