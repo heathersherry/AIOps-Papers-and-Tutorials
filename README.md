@@ -1,5 +1,5 @@
 # AIOps - Papers and Tutorials
-AIOps (Papers, Tutorials, and Datasets)
+AwesomeAIOps (Papers, Tutorials, and Datasets)
 
 ## Tutorials and Suveys
 1. Awesome AIOps [[GitHub](https://github.com/linjinjin123/awesome-AIOps)]
