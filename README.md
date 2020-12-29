@@ -9,6 +9,12 @@ AwesomeAIOps (Papers, Tutorials, and Datasets)
 
 ## Papers
 1. GRANO: Interactive Graph-based Root Cause Analysis for Cloud-Native Distributed Data Platform (VLDB 2019) [[Paper](https://dl.acm.org/doi/pdf/10.14778/3352063.3352105)]
+> * Key points (from Sec 3): use graph modeling and propagation algorithm to measure the importance of detection events and minimize the effect of false positive alarms
+> * Step 1 - Graph Construction, which forms a unified anomaly graph G = (V, E). V contains (1) the set of system components, and (2) the set of alarms and events retrieved. Each edge in E represents the interdependency between components.
+> * Step 2 - Alarm Edge Scoring, which evaluates the alarm’s importance to a connected system component.
+> * Step 3 - Component Node Scoring, which calculates the aggregated confidence score on the components, using the criticality of the alarms and the edges’ score that connected to a component.
+> * Step 4 - Score Propagation, which detects the actual root cause.
+
 2. iDice: Problem Identification for Emerging Issues (ICSE 2016) [[Paper](https://dl.acm.org/doi/pdf/10.1145/2884781.2884795)]
 > * identify the effective combination for an emerging issue with high quality and performance.
 3. Opprentice: Towards Practical and Automatic Anomaly Detection Through Machine Learning (IMC 2015) [[Paper](http://conferences2.sigcomm.org/imc/2015/papers/p211.pdf)]
