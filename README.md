@@ -17,6 +17,7 @@ AwesomeAIOps (Papers, Tutorials, and Datasets)
 > * (1) Sampling, (2) Build anomaly behavior graph, (3) graph correction, (4) heuristic root cause detection algorithm on the graph, (5) performance analysis, (6) update the weights.
 6. Graph-based root cause analysis for service-oriented and micro service architectures (The Journal of Systems and Software 2020) [[Paper](https://www.sciencedirect.com/science/article/pii/S0164121219302067)]
 7. Performance Monitoring and Root Cause Analysis for Cloud-hosted Web Applications (WWW 2017) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3038912.3052649)]
+8. Survey on Models and Techniques for Root-Cause Analysis [[Paper](https://arxiv.org/pdf/1701.08546.pdf)]
 
 
 
