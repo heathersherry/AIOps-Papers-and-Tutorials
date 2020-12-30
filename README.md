@@ -8,7 +8,7 @@ AwesomeAIOps (Papers, Tutorials, and Datasets)
 4. A collection of tools and datasets for anomaly detection on time-series data [[GitHub](https://github.com/rob-med/awesome-TS-anomaly-detection)]
 
 ## Papers
-1. GRANO: Interactive Graph-based Root Cause Analysis for Cloud-Native Distributed Data Platform (VLDB 2019) [[Paper](https://dl.acm.org/doi/pdf/10.14778/3352063.3352105)]
+1. GRANO: Interactive Graph-based Root Cause Analysis for Cloud-Native Distributed Data Platform (VLDB 2019) [[Paper](https://dl.acm.org/doi/pdf/10.14778/3352063.3352105)] 🌟
 > * Key points (from Sec 3): use graph modeling and propagation algorithm to measure the importance of detection events and minimize the effect of false positive alarms
 > * Step 1 - Graph Construction, which forms a unified anomaly graph G = (V, E). V contains (1) the set of system components, and (2) the set of alarms and events retrieved. Each edge in E represents the interdependency between components.
 > * Step 2 - Alarm Edge Scoring, which evaluates the alarm’s importance to a connected system component.
