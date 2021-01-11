@@ -24,7 +24,10 @@ AwesomeAIOps (Papers, Tutorials, and Datasets)
 6. Graph-based root cause analysis for service-oriented and micro service architectures (The Journal of Systems and Software 2020) [[Paper](https://www.sciencedirect.com/science/article/pii/S0164121219302067)]
 7. Performance Monitoring and Root Cause Analysis for Cloud-hosted Web Applications (WWW 2017) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3038912.3052649)]
 8. Survey on Models and Techniques for Root-Cause Analysis [[Paper](https://arxiv.org/pdf/1701.08546.pdf)]
-
+9. Graph-Based Trace Analysis for Microservice Architecture Understanding and Problem Diagnosis (FSE 2020) [[Paper](http://taoxie.cs.illinois.edu/publications/esecfse20in-trace.pdf)]
+> * The same author as GRANO.
+> * GMTA, a graph-based approach of microservice trace analysis, for understanding architecture and diagnosing various problems.
+> * GMTA abstracts traces into different paths and further groups them into business flows. To support various analytical applications, GMTA includes an efficient storage and access mechanism by combining a graph database and a real-time analytics database and using a carefully designed storage structure.
 
 
 ## Summary
