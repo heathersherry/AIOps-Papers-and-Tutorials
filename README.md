@@ -28,6 +28,9 @@ AwesomeAIOps (Papers, Tutorials, and Datasets)
 > * The same author as GRANO.
 > * GMTA, a graph-based approach of microservice trace analysis, for understanding architecture and diagnosing various problems.
 > * GMTA abstracts traces into different paths and further groups them into business flows. To support various analytical applications, GMTA includes an efficient storage and access mechanism by combining a graph database and a real-time analytics database and using a carefully designed storage structure.
+10. Reliability Analytics for Cloud Based Distributed Databases (SIGMOD 2020, industry track) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3318464.3386130)] 🌟
+> * RADD, an innovative analytic pipeline used to measure reliability and availability for cloud-based distributed databases by leveraging the vast amount of telemetry present in the cloud.
+> RADD implements an event correlation framework that puts the emphasis on data compliance and uses information entropy to measure causality and reduce noisy signals.
 
 
 ## Summary
