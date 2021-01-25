@@ -23,7 +23,7 @@ AwesomeAIOps (Papers, Tutorials, and Datasets)
 5. AutoMAP: Diagnose Your Microservice-based Web Applications Automatically (WWW 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380111)] [[GitHub](https://github.com/rshriram/pymicro)] [[Notes](https://mp.weixin.qq.com/s?__biz=Mzg3NDUwNTM3MA==&mid=2247485389&idx=1&sn=1914974878864d2d77131a1ec998fd17&chksm=cecef238f9b97b2e7e66c7d133cf743479289eb5fba7cfa85c094a3ce494fa1cb49efa997add&cur_album_id=1573418835687309313&scene=189#rd)]
 > * AutoMAP的模型利用多维时序指标来动态生成服务关联并诊断根因。针对多维时间序列，该工作分析时序之间的异常关联，推断异常行为图来描述不同服务之间的相关性。根据行为图，该工作使用前向、自向和后向随机游走算法设计启发式模型，用以识别服务故障的根本原因。AutoMAP可以快速部署在各种基于微服务的系统中，无需专家经验知识启动。同时，它也支持引入专家知识以提高诊断的准确性。
 > * (1) Sampling, (2) Build anomaly behavior graph, (3) graph correction, (4) heuristic root cause detection algorithm on the graph, (5) performance analysis, (6) update the weights.
-> <img src="https://github.com/heathersherry/AIOps-Papers-and-Tutorials/blob/main/figures/WX20210125-150229.png" width="700"/>
+> * <img src="https://github.com/heathersherry/AIOps-Papers-and-Tutorials/blob/main/figures/WX20210125-150229.png" width="700"/>
 
 6. Graph-based root cause analysis for service-oriented and micro service architectures (The Journal of Systems and Software 2020) [[Paper](https://www.datsi.fi.upm.es/~mperez/pub/jss-2019.pdf)]
 > * 该类根因分析一般具有明确的服务调用拓扑关系（图），旨在捕捉服务链路上的异常，定位异常实体
