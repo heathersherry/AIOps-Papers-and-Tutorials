@@ -28,6 +28,7 @@ AwesomeAIOps (Papers, Tutorials, and Datasets)
 6. Graph-based root cause analysis for service-oriented and micro service architectures (The Journal of Systems and Software 2020) [[Paper](https://www.datsi.fi.upm.es/~mperez/pub/jss-2019.pdf)]
 > * 该类根因分析一般具有明确的服务调用拓扑关系（图），旨在捕捉服务链路上的异常，定位异常实体
 > * 在这项工作中，我们基于这些体系结构的图形表示形式，提出了根本原因分析框架。这些图可用于将系统中发生的任何异常情况与异常图库进行比较，该库可作为用户对这些异常进行故障排除的知识库。
+> * Please Refer to Section 4.
 7. Performance Monitoring and Root Cause Analysis for Cloud-hosted Web Applications (WWW 2017) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3038912.3052649)]
 8. Survey on Models and Techniques for Root-Cause Analysis [[Paper](https://arxiv.org/pdf/1701.08546.pdf)]
 9. Graph-Based Trace Analysis for Microservice Architecture Understanding and Problem Diagnosis (FSE 2020) [[Paper](http://taoxie.cs.illinois.edu/publications/esecfse20in-trace.pdf)]
