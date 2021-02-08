@@ -36,10 +36,13 @@ AwesomeAIOps (Papers, Tutorials, and Datasets)
 > * GMTA, a graph-based approach of microservice trace analysis, for understanding architecture and diagnosing various problems.
 > * GMTA abstracts traces into different paths and further groups them into business flows. To support various analytical applications, GMTA includes an efficient storage and access mechanism by combining a graph database and a real-time analytics database and using a carefully designed storage structure.
 10. Reliability Analytics for Cloud Based Distributed Databases (SIGMOD 2020, industry track) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3318464.3386130)] 🌟
-<img src="https://github.com/heathersherry/AIOps-Papers-and-Tutorials/blob/main/figures/WX20210208-145935.png" width="500"/>
+> * <img src="https://github.com/heathersherry/AIOps-Papers-and-Tutorials/blob/main/figures/WX20210208-145935.png" width="500"/>
 > * RADD, an innovative analytic pipeline used to measure reliability and availability for cloud-based distributed databases by leveraging the vast amount of telemetry present in the cloud.
-> RADD implements an event correlation framework that puts the emphasis on data compliance and uses information entropy to measure causality and reduce noisy signals.
+> * RADD implements an event correlation framework that puts the emphasis on data compliance and uses information entropy to measure causality and reduce noisy signals.
 11. Root Cause Analysis of Anomalies of Multitier Services in Public Clouds (IWQOS 2018) [[Paper](https://ieeexplore.ieee.org/document/7969155)]
+> * <img src="https://github.com/heathersherry/AIOps-Papers-and-Tutorials/blob/main/figures/WX20210208-151309.png" width="500"/>
+> * Particularly, we elaborate a non-intrusive method to capture the dependency relationships of components, which improves the feasibility. 
+> * During localization, we exploit measurement data of both application layer and underlay infrastructure, and our two-step localization algorithm also includes a random walk procedure to model anomaly propagation probability (Section V-C).
 12. Latent Error Prediction and Fault Localization for Microservice Applications by Learning from System Trace Logs (FSE 2019)
 
 ## Summary
